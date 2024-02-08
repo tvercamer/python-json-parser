@@ -26,10 +26,10 @@ This project takes a JSON file OR a JSON string and creates an Excel file of the
 You can use 2 options in this tool: insert a JSON file or a JSON string. In both cases you'll need **valid** JSON! Once the script has run, you will find a ```json-parser.xlsx``` in the root of this folder.
 
 ### Option 1: Use a JSON file
-```python script.py -f /path/to/file.json```
+```python main.py -f /path/to/file.json```
 
 ### Option 2: Use a JSON string
-```python script.py -s '{"key": "value"}'```
+```python main.py -s '{"key": "value"}'```
 
 ## Screenshot
 ![Code Result](/screenshot-code-result.png?raw=true "Code Result")
