@@ -32,4 +32,4 @@ You can use 2 options in this tool: insert a JSON file or a JSON string. In both
 ```python script.py -s '{"key": "value"}'```
 
 ## Screenshot
-![Alt text](/screenshot-code-result.png?raw=true "Code Result")
+![Code Result](/screenshot-code-result.png?raw=true "Code Result")
